@@ -15,14 +15,6 @@ This repo consists of four algorithms:
 
 # Citation
 If you find our code useful, please cite:
-@ARTICLE{10330655,	
-  author={Hu, Xingchen and Qin, Jindong and Shen, Yinghua and Pedrycz, Witold and Liu, Xinwang and Liu, Jiyuan},	
-  journal={IEEE Transactions on Fuzzy Systems}, 	
-  title={An Efficient Federated Multi-view Fuzzy C-Means Clustering Method}, 	
-  year={2023},	
-  volume={},	
-  number={},	
-  pages={1-14},	
-  doi={10.1109/TFUZZ.2023.3335361}}
+X. Hu, J. Qin, Y. Shen, W. Pedrycz, X. Liu and J. Liu, "An Efficient Federated Multi-view Fuzzy C-Means Clustering Method," in IEEE Transactions on Fuzzy Systems, doi: 10.1109/TFUZZ.2023.3335361.
   
 Thanks. Any problem can contact Xingchen Hu (xhu4@ualberta.ca).
